@@ -1,6 +1,6 @@
 # ETLDevelopment
 
 This Repository contains folders of:  
-* ETL Process codes and General Purpose codes relate to this field.
+* Codes: ETL Process Codes and General Purpose Codes relate to this process.
 * Scripts.
 * SQL Queries.
